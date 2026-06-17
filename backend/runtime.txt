@@ -1,0 +1,2 @@
+cd C:\Users\mahal\Downloads\ai-career-companion\ai-career-companion\backend
+echo python-3.11.9 > runtime.txt
